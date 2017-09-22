@@ -34,4 +34,6 @@ class Mimo extends CI_Controller {
 		$this->load->view('include/footer');
 		
 	}
+	
+	
 }
