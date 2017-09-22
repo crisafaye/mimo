@@ -1,0 +1,94 @@
+a.navbar-brand.navbar-link{
+  font-family:kristen ITC;
+  color:white;
+}
+
+#topnav{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#leftnav{
+	/* background-color:  #f3f2f2; */
+	margin-top: 75px;
+	margin-left: 10px;
+}
+
+ul{
+	list-style-type: none;
+}
+li{
+	display: block;
+}
+
+/*Post (Thoughts) CSS*/
+.belowtn{
+	top: 50px;
+	position: relative;
+	
+}
+
+.postcont{
+	
+	position: relative;
+	padding: 2px;
+	margin: 5px 10px 5px 10px;
+}
+
+.posthead{
+	margin-top: 20px;
+	background: linear-gradient(white,#DCDCDC);
+	border: 1px solid rgb(217,217,217);
+	padding: 16px 12px 12px 12px;
+}
+.postbody{
+	background-color: rgb(242,242,242);
+	padding: 15px;
+}
+.postbodycont{
+	border-radius: 10px;
+	background-color: white;
+	border: 1px solid orange;
+	padding: 8px 7px 3px 7px;
+	margin-bottom: 5px;
+}
+a.user:hover{
+	color: black;
+	cursor: pointer;
+}
+
+a.listnav{
+	color: #262626;
+}
+a.like{
+	color: #404040;
+}
+
+.belowpost{
+	background-color: pink;
+}
+
+		
+#listNav{
+	margin: 0 auto; 
+	margin-left: 15px;
+	position:relative;
+	color: grey;
+	
+}
+.leftdp{
+	margin-top: 10px; width: 90px; border: 2px solid orange; border-radius: 50%;
+}
+
+.searchbar{
+	background-color: #333333;
+	color: white;
+}
+.searchbar:focus{
+	border: 1px solid orange;
+	
+}
+
+.post{
+	margin: 0 auto;
+	
+}
